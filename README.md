@@ -1,5 +1,6 @@
-- Hi, I’m @EdinilsonElfo
-- I’m currently learning HTML, CSS, MySQL
+# Hello World!
+
+I'm just a noob programmer doing some really simple code. I don't have anything special here. Also, I like Math, Music and Video Games.
 
 <!---
 EdinilsonElfo/EdinilsonElfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
